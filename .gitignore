@@ -1,2 +1,4 @@
 redEye/xcode/build/redEye.build/*
 xcuserdata
+
+*.xcuserstate
